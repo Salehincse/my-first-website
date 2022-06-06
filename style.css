@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: poppins, sans-serif;
+}
+
+.header{
+    display: flex;
+    margin: 60px 0px;
+}
+.salam{
+    font-size: 50px;
+    font-weight: bold;
+}
+.welcome{
+    font-size: 50px;
+    color: orange;
+    margin: 50px 100px 50px 0px;
+    font-weight: bold;
+}
+.welocme_next{
+    color: black;
+    
+}
+.about_me{
+    margin: 0px 100px 10px 0px;
+    text-align: justify;
+    width: 80%;
+    font-size: 1.17em;
+}
+.hire_me{
+    color: #fff;
+    background-color:#FF3786;
+    height: 40px;
+    width: 110px;
+    border-radius: 5%;
+    font-size: 20px;
+    text-align: center;
+}
+.hire_me:hover{
+    background-color: red;
+}
+.logo{
+    width: 50%;
+}
+.picture{
+    width: 50%;
+}
+.middle_part{
+    margin-top: 50px;
+}
